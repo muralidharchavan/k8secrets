@@ -1,0 +1,20 @@
+/.m2
+
+target
+/.classpath
+/.project
+/.settings
+
+/caches
+/local.properties
+.*.swp
+.DS_Store
+/src/main/resources/application-local.properties
+
+src/main/resources/application-local.properties
+src/main/resources/localdev-config.json
+
+# IntelliJ files
+*.iml
+.idea
+**/target/**

@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Secret
+metadata:
+  name: wallet
+data:
+  BC_User_MSP_ID: {MSP_ID in base64}
+
+  BC_User_CERTIFICATE: {Certificate in base64}
+
+  BC_User_PRIVATE_KEY: {Private key in base64}
+
+
+
+
+
